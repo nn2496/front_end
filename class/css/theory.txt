@@ -1,0 +1,55 @@
+Selector
+1. Tag
+2. id
+3. class
+
+ex) <div id="header" class="header"></div>
+
+CSS 포함방법
+
+1.inline
+
+ex) <div style="color:red"></div>
+자바스크립트에서 css를 컨트롤할때 쓰이고 평소에는 잘 쓰이지 않음.
+
+2.embed(internal)
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <!-- CSS -->
+  <style>
+  p { color:red }
+  </style>
+  <!--// CSS -->
+  style태그는 head태그 안에 넣어야된다.(body태그안에 넣으면 안됌)
+</head>
+
+3. external
+
+ex)
+
+파일 : style.css
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <!-- CSS -->
+  <link rel="stylesheet" href="style.css" />
+  <!--// CSS -->
+</head>
+
+외부에 파일을 제작하여 불러오는 방식
+
+
+문법
+
+selector{
+	property : property value;
+	property : property value;
+	property : property value;
+}
