@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6a19c90-bf77-4093-88c7-7d0589e67fc4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/css/variable_width.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/html/practice/p2.html" afterPath="$PROJECT_DIR$/class/html/practice/p2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/html/practice/p3.html" afterPath="$PROJECT_DIR$/class/html/practice/p3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/css/property.css" afterPath="$PROJECT_DIR$/class/css/property.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/css/property.html" afterPath="$PROJECT_DIR$/class/css/property.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/css/theory.txt" afterPath="$PROJECT_DIR$/class/css/theory.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/css/practice/layout1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/css/practice/layout1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/css/practice/layout2.html" />
+      <change type="MOVED" beforePath="C:\Users\321-233\Desktop\front_end\class\css\property.css" afterPath="$PROJECT_DIR$/class/css/property/property.css" />
+      <change type="MOVED" beforePath="C:\Users\321-233\Desktop\front_end\class\css\property.html" afterPath="$PROJECT_DIR$/class/css/property/property.html" />
+      <change type="MOVED" beforePath="C:\Users\321-233\Desktop\front_end\class\css\theory.txt" afterPath="$PROJECT_DIR$/class/css/property/theory.txt" />
+      <change type="MOVED" beforePath="C:\Users\321-233\Desktop\front_end\class\css\variable_width.html" afterPath="$PROJECT_DIR$/class/css/property/variable_width.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="front_end.iws" />
@@ -62,21 +63,31 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="property.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/class/css/property.css">
+          <file leaf-file-name="layout1.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/class/css/practice/layout1.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5104895">
-                  <caret line="120" column="17" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="theory.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/css/theory.txt">
+          <file leaf-file-name="property.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/class/css/property/property.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0">
-                  <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+                  <caret line="210" column="1" selection-start-line="210" selection-start-column="1" selection-end-line="210" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="theory.txt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/class/css/property/theory.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.43890274">
+                  <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -86,25 +97,35 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="property.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/class/css/property.html">
+          <file leaf-file-name="layout1.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/class/css/practice/layout1.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.113300495">
-                  <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-                  <folding>
-                    <element signature="n#style#0;n#col#0;n#colgroup#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                  </folding>
+                <state vertical-scroll-proportion="-7.5">
+                  <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="variable_width.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/class/css/variable_width.html">
+          <file leaf-file-name="layout2.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/class/css/practice/layout2.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-6.25">
-                  <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="property.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/class/css/property/property.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-16.875">
+                  <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+                  <folding>
+                    <element signature="n#style#0;n#col#0;n#colgroup#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -135,9 +156,13 @@
         <option value="$PROJECT_DIR$/class/html/practice/p2.html" />
         <option value="$PROJECT_DIR$/class/html/practice/p3.html" />
         <option value="$PROJECT_DIR$/class/css/theory.txt" />
-        <option value="$PROJECT_DIR$/class/css/property.html" />
         <option value="$PROJECT_DIR$/class/css/variable_width.html" />
+        <option value="$PROJECT_DIR$/class/css/property.html" />
         <option value="$PROJECT_DIR$/class/css/property.css" />
+        <option value="$PROJECT_DIR$/class/css/practice/layout2.html" />
+        <option value="$PROJECT_DIR$/class/css/practice/layout1.html" />
+        <option value="$PROJECT_DIR$/class/css/practice/layout1.css" />
+        <option value="$PROJECT_DIR$/class/css/property/theory.txt" />
       </list>
     </option>
   </component>
@@ -153,6 +178,37 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -177,7 +233,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -254,17 +309,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/class/css/practice/layout1.css" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/user/Desktop/front_end/class/html/hello_html.html" />
     <property name="FullScreen" value="false" />
@@ -273,6 +351,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\321-233\Desktop\front_end\class\css\property" />
       <recent name="C:\Users\user\Desktop\front_end\class\html" />
     </key>
   </component>
@@ -395,7 +474,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/css/property.css">
+    <entry file="file://$PROJECT_DIR$/class/css/property/property.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="18" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/css/property/theory.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/css/property/property.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#col#0;n#colgroup#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/css/property/variable_width.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/p1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="n#li#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/p2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="3" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/css/property/property.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
@@ -403,7 +544,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/css/property.html">
+    <entry file="file://$PROJECT_DIR$/class/css/property/property.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -452,15 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="340" column="0" selection-start-line="340" selection-start-column="0" selection-end-line="343" selection-end-column="33" />
-          <folding>
-            <element signature="e#663#802#0" expanded="false" />
-            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -495,15 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="333" column="26" selection-start-line="333" selection-start-column="26" selection-end-line="333" selection-end-column="26" />
-          <folding>
-            <element signature="e#663#802#0" expanded="false" />
-            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,15 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="333" column="26" selection-start-line="333" selection-start-column="26" selection-end-line="333" selection-end-column="26" />
-          <folding>
-            <element signature="e#663#802#0" expanded="false" />
-            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -573,15 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#663#802#0" expanded="false" />
-            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -589,15 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#663#802#0" expanded="false" />
-            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,6 +725,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/p3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19610092">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/element/element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85333335">
+          <caret line="195" column="10" selection-start-line="164" selection-start-column="1" selection-end-line="195" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/css/property/variable_width.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33251232">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/class/html/practice/p1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -648,26 +766,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/html/practice/p3.html">
+    <entry file="file://$PROJECT_DIR$/class/css/property/property.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19610092">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/html/element/element.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85333335">
-          <caret line="195" column="10" selection-start-line="164" selection-start-column="1" selection-end-line="195" selection-end-column="10" />
-          <folding>
-            <element signature="e#663#802#0" expanded="false" />
-            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ol#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="210" column="1" selection-start-line="210" selection-start-column="1" selection-end-line="210" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -679,38 +782,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/css/theory.txt">
+    <entry file="file://$PROJECT_DIR$/class/css/practice/layout1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/css/practice/layout1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class/css/variable_width.html">
+    <entry file="file://$PROJECT_DIR$/class/css/property/property.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/css/property.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5104895">
-          <caret line="120" column="17" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/css/property.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.113300495">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        <state vertical-scroll-proportion="-16.875">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#col#0;n#colgroup#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#col#1;n#colgroup#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/css/practice/layout2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/css/property/theory.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43890274">
+          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
