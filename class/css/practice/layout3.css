@@ -1,0 +1,84 @@
+.wrap{
+  width:980px;
+}
+
+.header{
+  height:100px;
+  background:darkred;
+  font-size:35px;
+  color:white;
+}
+
+.container:after{
+  content:"";
+  display:block;
+  clear:both;
+}
+
+.content:after{
+  contnet:"";
+  display:block;
+  clear:both;
+}
+
+.lnb{
+  float:left;
+  width:350px;
+}
+
+.first-title{
+  width:350px;
+  height:200px;
+  background:red;
+  font-size:35px;
+  color:white;
+}
+
+.and-another{
+  width:350px;
+  height:400px;
+  background:deepskyblue;
+  font-size:35px;
+  color:white;
+}
+
+
+.content{
+  float:left;
+  width:630px;
+}
+
+.another-title{
+  width:630px;
+  height:500px;
+  background:saddlebrown;
+  font-size:35px;
+  color:white;
+}
+
+.the-forth-one{
+  width:450px;
+  height:100px;
+  background:blue;
+  float:left;
+  font-size:35px;
+  color:white;
+}
+
+.the-last{
+  width:180px;
+  height:100px;
+  background:darkolivegreen;
+  float:left;
+  font-size:35px;
+  color:white;
+}
+
+.footer{
+  height:100px;
+  background:darkred;
+  font-size:35px;
+  color:white;
+}
+
+
