@@ -1,0 +1,46 @@
+.wrap{
+  width:980px;
+  margin:0 auto;
+}
+
+.header{
+  height:100px;
+  background:hotpink;
+}
+
+.section{
+  height:700px;
+  margin:20px 0;
+}
+
+.section:after{
+  coment:"";
+  display:block;
+  clear:both;
+}
+
+.article1{
+  width:480px;
+  height:700px;
+  margin-right:20px;
+  float:left;
+  background:darkviolet;
+}
+
+.article2{
+  width:480px;
+  height:700px;
+  float:left;
+  background:blueviolet;
+}
+
+.bottom{
+  height:90px;
+  background:lightsalmon;
+}
+
+.footer{
+  height:100px;
+  margin-top:20px;
+  background:hotpink;
+}
