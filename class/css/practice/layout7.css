@@ -58,9 +58,19 @@
   margin:5px 0;
 }
 
+.wrap1:after{
+  content:"";
+  display:block;
+  clear:both;
+}
+
+.section-wrap{
+  float:left;
+}
+
 .section{
   width:580px;
-  height:650px;
+  height:660px;
   background:white;
   float:left;
 }
@@ -78,7 +88,6 @@
 .article1-bar1{
   height:20px;
   margin-right:10px;
-  margin-left:5px;
   background:steelblue;
   
 }

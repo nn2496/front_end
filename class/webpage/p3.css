@@ -1,0 +1,42 @@
+.logo{
+  display:block;
+  width:92px;
+  height:92px;
+  background:url(images/logo_baskinrobbins.png);
+  text-indent:-99999em;
+  border:0px;
+  cursor:pointer;
+}
+
+.btn-search{
+  display:block;
+  width:54px;
+  height:54px;
+  background:url(images/icon_search.png);
+  text-indent:-99999em;
+  border:0px;
+  cursor:pointer;
+}
+
+.top-img{
+  display:block;
+  width:1600px;
+  height:150px;
+  background:url(images/img_flaovr_month_top.jpg.png);
+  text-indent:-99999em;
+  border:0px;
+  cursor:pointer;
+}
+
+.banner.img{
+  display:block;
+  width:1600%;
+  height:150%;
+  background:url(images/img_flaovr_month_top.jpg.png);
+  text-indent:-99999em;
+  border:0px;
+  cursor:pointer;
+}
+
+
+
