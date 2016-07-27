@@ -1,0 +1,97 @@
+.inner{
+  width:1200px;
+  margin:0 auto;
+  position:relative;
+}
+
+
+.header{
+  height:85px;
+  padding-bottom:7px;
+  position:relative;
+}
+
+.logo{
+  position:absolute;
+  top:0;
+  left:50%;
+  margin-left:-117px;
+}
+
+.util-member{
+  float:left;
+  margin-top:3px;
+}
+
+
+.facebook-logo{
+  left:10px;
+  float:right;
+}
+
+.util-wrap{
+  float:right;
+  margin:32px 50px 0 0;
+}
+
+
+.util-member-list{
+  float:left;
+  margin-right:20px;
+}
+
+.nav{
+  height:36px;
+  padding:1px;
+  background:#2b3e4f;
+}
+
+.nav-heading{
+  display:none;
+}
+
+.gnb-depth1-item{
+  float:left;
+  width:200px;
+}
+
+.gnb-depth1-link{
+  display:block;
+  height:36px;
+  color:white;
+  font-size:14px;
+  text-align:center;
+  line-height:36px;
+}
+
+.gnb-depth1-link:hover{
+  background:#0e68ad;
+}
+
+.gnb-depth2{
+  position:absolute;
+  width:198px;
+  border:1px solid #aaa;
+  background:#fff;
+}
+
+.gnb-depth2-link{
+  display:block;
+  padding:3px 20px;
+  font-size:14px;
+  line-height:1.6;
+}
+
+
+
+
+
+
+
+
+
+.clearfix:after{
+  content:"";
+  display:block;
+  clear:both;
+}
