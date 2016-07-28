@@ -1,0 +1,65 @@
+.inner{
+  width:1094px;
+  margin:0 auto;
+
+}
+
+.util-bar{
+  width:100%;
+  background:#01aeb2;
+}
+
+.header{
+  width:100%;
+
+}
+
+.util-lang{
+  float:left;
+}
+
+.util-lang-list{
+  float:left;
+  width:68px;
+  height:32px;
+  border-left:1px solid #4ec6c9;
+  border-right:1px solid #4ec6c9;
+  text-align:center;
+  line-height:32px;
+  font-size:11px;
+  box-sizing:border-box;
+}
+
+.util-sm{
+  background:#237491;
+  width:104px;
+  height:32px;
+}
+
+
+.util-sm:before{
+  content:"";
+  display:inline-block;
+  width:16px;
+  height:16px;
+  background:url(../images/top_portal_icon.gif) no-repeat;
+}
+
+.util-lang-link{
+  color:white;
+}
+
+.util-lang-link:hover{
+  font-weight:bold;
+}
+
+
+
+
+
+
+.clearfix:after{
+  content:"";
+  display:block;
+  clear:both;
+}
