@@ -7,6 +7,9 @@
 .util-bar{
   width:100%;
   background:#01aeb2;
+  position:absolute;
+  top:0;
+  left:0;
 }
 
 .header{
@@ -30,10 +33,31 @@
   box-sizing:border-box;
 }
 
+.util-lang-link{
+  color:white;
+}
+
+.util-lang-link:hover{
+  font-weight:bold;
+}
+
+.util-right{
+  position:relative;
+}
+
 .util-sm{
   background:#237491;
   width:104px;
   height:32px;
+  color:white;
+  font-weight:bold;
+  display:block;
+  text-align:center;
+  line-height:32px;
+  float:right;
+  position:absolute;
+  top:0;
+  right:130px;
 }
 
 
@@ -45,17 +69,70 @@
   background:url(../images/top_portal_icon.gif) no-repeat;
 }
 
-.util-lang-link{
+.util-cs{
+  float:right;
+  position:absolute;
+  top:0;
+  right:235px;
+  box-sizing:border-box;
+}
+
+.util-cs-list{
+  width:46px;
+  height:32px;
+  float:left;
+}
+
+.util-cs-link{
+  display:block;
+  padding:0 8px;
+  font-size:11px;
   color:white;
+  text-align:center;
+  line-height:32px;
+  float:right;
 }
 
-.util-lang-link:hover{
-  font-weight:bold;
+
+.btn-wrap{
+  position:absolute;
+  top:0px;
+  right:0px;
+  float:right;
+}
+
+.search-text{
+  display:block;
+  width:126px;
+  padding:3px 0;
+  border:0;
+  height:14px;
+  position:absolute;
+  top:6px;
+  right:0px;
+}
+
+.search-btn{
+  float:right;
+  display:inline-block;
+  text-indent:-99999em;
+  width:18px;
+  height:18px;
+  border:0;
+  padding:3px 0;
+  background:url(../images/btn_search.png) no-repeat;
+  position:absolute;
+  top:8px;
+  right:5px;
+  cursor:wait;
 }
 
 
 
 
+.blind{
+  display:none;
+}
 
 
 .clearfix:after{
