@@ -3,153 +3,167 @@
 <head>
   <meta charset="UTF-8">
   <title>페이지 제작 연습</title>
+  <link rel="stylesheet" href="css/reset.css" />
+  <link rel="stylesheet" href="css/p1-1.css" />
 </head>
 <body>
 <div>
-  <header>
+  <header class="header">
 
-    <h1>
-      <img src="images/logo2.png" alt="선문대학교 로고" />
-    </h1>
+    <div class="inner">
 
-    <div>
+      <h1>
+        <img src="images/logo2.png" alt="선문대학교 로고" />
+      </h1>
 
-      <ul>
-        <li><a href="">ENGLISH</a></li>
-        <li><a href="">CHINESE</a></li>
-        <li><a href="">JAPANESE</a></li>
-      </ul>
-
-      <div>
+      <nav>
 
         <ul>
-          <li><a h`ref="">HOME</a></li>
-          <li><a href="">LOGIN</a></li>
-          <li><a href="">SITEMAP</a></li>
+          <li>
+            <a href="">학교소개</a>
+            <ul>
+              <li>
+                <a href="">총장실</a>
+                <ul>
+                  <li><a href="">인사말</a></li>
+                  <li><a href="">총장약력</a></li>
+                  <li><a href="">총장동정</a></li>
+                  <li><a href="">역대총장</a></li>
+                  <li><a href="">총장과의 대화</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="">역사이념</a>
+                <ul>
+                  <li><a href="">연혁</a></li>
+                  <li><a href="">설립취지</a></li>
+                  <li><a href="">건학이념</a></li>
+                  <li><a href="">교육목적 및 목표</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="">입학안내</a>
+            <ul>
+              <li><a href="">대학</a></li>
+              <li><a href="">대학원</a></li>
+              <li><a href="">한국어교육원</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="">대학/대학원</a>
+            <ul>
+              <li>
+                <a href="">대학</a>
+                <ul>
+                  <li><a href="">신학순결대학</a></li>
+                  <li><a href="">인문사회대학</a></li>
+                  <li><a href="">글로벌비즈니스외국어대학</a></li>
+                  <li><a href="">건강보건대학</a></li>
+                  <li><a href="">공과대학</a></li>
+                  <li><a href="">교양교육원</a></li>
+                </ul>
+              </li>
+              <li>
+                <a href="">대학원</a>
+                <ul>
+                  <li><a href="">일반대학원</a></li>
+                  <li><a href="">신학전문대학원</a></li>
+                  <li><a href="">교육대학원</a></li>
+                  <li><a href="">글로컬통합대학원</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="">산학연구</a>
+            <ul>
+              <li><a href="">산학연구</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="">대학생활</a>
+            <ul>
+              <li><a href="">학사일정</a></li>
+              <li>
+                <a href="">학사행정</a>
+                <ul>
+                  <li><a href="">학사업무안내</a></li>
+                  <li><a href="">학과사무실 연락처 및 위치</a></li>
+                  <li><a href="">교육과정</a></li>
+                  <li><a href="">수업</a></li>
+                  <li><a href="">시험및성적</a></li>
+                  <li><a href="">계절학기</a></li>
+                  <li><a href="">학점교류</a></li>
+                  <li><a href="">강의평가</a></li>
+                  <li><a href="">학적</a></li>
+                  <li><a href="">다전공/전공심화 및 Especial Course</a></li>
+                  <li><a href="">교직과정</a></li>
+                  <li><a href="">평생교육사자격증과정</a></li>
+                  <li><a href="">장학</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="">SM Story</a>
+            <ul>
+              <li><a href="">선문뉴스</a></li>
+              <li>
+                <a href="">공지사항</a>
+                <ul>
+                  <li><a href="">일반/학사/장학/취업</a></li>
+                  <li><a href="">팝업공지</a></li>
+                  <li><a href="">정보보안공지</a></li>
+                  <li><a href="">제3자정보제공공지</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
         </ul>
 
-        <a href="">선문 포털</a>
+      </nav>
 
-        <fieldset>
-          <legend>검색</legend>
-          <input type="text" />
-          <button type="button">검색</button>
-        </fieldset>
+    </div>
+
+    <div class="util">
+
+      <div class="inner">
+
+        <ul class="util-lang">
+          <li class="util-lang-item"><a href="" class="util-lang-link">ENGLISH</a></li>
+          <li class="util-lang-item"><a href="" class="util-lang-link">CHINESE</a></li>
+          <li class="util-lang-item"><a href="" class="util-lang-link">JAPANESE</a></li>
+        </ul>
+
+        <div class="util-right">
+
+          <ul class="util-general">
+            <li class="util-general-item"><a href="" class="util-general-link">HOME</a></li>
+            <li class="util-general-item"><a href="" class="util-general-link">LOGIN</a></li>
+            <li class="util-general-item"><a href="" class="util-general-link">SITEMAP</a></li>
+          </ul>
+
+          <a href="" class="portal-link">선문 포털</a>
+
+          <fieldset class="search">
+            <legend class="search-heading">검색</legend>
+            <input type="text" class="search-input" placeholder="통합검색"/>
+            <button type="button" class="search-btn">검색</button>
+          </fieldset>
+
+        </div>
 
       </div>
 
     </div>
 
+
+
   </header>
 
-  <nav>
 
-    <ul>
-      <li>
-        <a href="">학교소개</a>
-        <ul>
-          <li>
-            <a href="">총장실</a>
-            <ul>
-              <li><a href="">인사말</a></li>
-              <li><a href="">총장약력</a></li>
-              <li><a href="">총장동정</a></li>
-              <li><a href="">역대총장</a></li>
-              <li><a href="">총장과의 대화</a></li>
-            </ul>
-          </li>
-          <li>
-            <a href="">역사이념</a>
-            <ul>
-              <li><a href="">연혁</a></li>
-              <li><a href="">설립취지</a></li>
-              <li><a href="">건학이념</a></li>
-              <li><a href="">교육목적 및 목표</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <a href="">입학안내</a>
-        <ul>
-          <li><a href="">대학</a></li>
-          <li><a href="">대학원</a></li>
-          <li><a href="">한국어교육원</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="">대학/대학원</a>
-        <ul>
-          <li>
-            <a href="">대학</a>
-            <ul>
-              <li><a href="">신학순결대학</a></li>
-              <li><a href="">인문사회대학</a></li>
-              <li><a href="">글로벌비즈니스외국어대학</a></li>
-              <li><a href="">건강보건대학</a></li>
-              <li><a href="">공과대학</a></li>
-              <li><a href="">교양교육원</a></li>
-            </ul>
-          </li>
-          <li>
-            <a href="">대학원</a>
-            <ul>
-              <li><a href="">일반대학원</a></li>
-              <li><a href="">신학전문대학원</a></li>
-              <li><a href="">교육대학원</a></li>
-              <li><a href="">글로컬통합대학원</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <a href="">산학연구</a>
-        <ul>
-          <li><a href="">산학연구</a></li>
-        </ul>
-      </li>
-      <li>
-        <a href="">대학생활</a>
-        <ul>
-          <li><a href="">학사일정</a></li>
-          <li>
-            <a href="">학사행정</a>
-            <ul>
-              <li><a href="">학사업무안내</a></li>
-              <li><a href="">학과사무실 연락처 및 위치</a></li>
-              <li><a href="">교육과정</a></li>
-              <li><a href="">수업</a></li>
-              <li><a href="">시험및성적</a></li>
-              <li><a href="">계절학기</a></li>
-              <li><a href="">학점교류</a></li>
-              <li><a href="">강의평가</a></li>
-              <li><a href="">학적</a></li>
-              <li><a href="">다전공/전공심화 및 Especial Course</a></li>
-              <li><a href="">교직과정</a></li>
-              <li><a href="">평생교육사자격증과정</a></li>
-              <li><a href="">장학</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>
-        <a href="">SM Story</a>
-        <ul>
-          <li><a href="">선문뉴스</a></li>
-          <li>
-            <a href="">공지사항</a>
-            <ul>
-              <li><a href="">일반/학사/장학/취업</a></li>
-              <li><a href="">팝업공지</a></li>
-              <li><a href="">정보보안공지</a></li>
-              <li><a href="">제3자정보제공공지</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-
-  </nav>
 
   <div>
 
