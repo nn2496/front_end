@@ -68,11 +68,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="p1-1.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="p1-1.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/webpage/p1-1.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-26.041666">
-                  <caret line="272" column="68" selection-start-line="272" selection-start-column="68" selection-end-line="272" selection-end-column="68" />
+                <state vertical-scroll-proportion="-3.670391">
+                  <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
                   <folding>
                     <element signature="n#div#0;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                   </folding>
@@ -80,20 +80,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="sunmoon.css" pinned="false" current-in-tab="true">
-            <entry file="file://$USER_HOME$/Downloads/front_end-master (5)/front_end-master/class/webpage/css/sunmoon.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.34711644">
-                  <caret line="344" column="15" selection-start-line="344" selection-start-column="15" selection-end-line="344" selection-end-column="15" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="p1.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/class/webpage/p1.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-11.875">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="187" column="66" selection-start-line="187" selection-start-column="66" selection-end-line="187" selection-end-column="66" />
                   <folding>
                     <element signature="n#h1#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -141,8 +131,8 @@
           <file leaf-file-name="p1-1.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/class/webpage/css/p1-1.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.28182808">
-                  <caret line="350" column="16" selection-start-line="350" selection-start-column="16" selection-end-line="350" selection-end-column="16" />
+                <state vertical-scroll-proportion="-2.8237214">
+                  <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -550,7 +540,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -779,13 +769,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/js/jquery-3.1.0.min.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3008596">
           <caret line="0" column="1565" selection-start-line="0" selection-start-column="1565" selection-end-line="0" selection-end-column="1565" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/html/practice/p2.html">
@@ -930,7 +920,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/p1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875">
+        <state vertical-scroll-proportion="0.0">
           <caret line="187" column="66" selection-start-line="187" selection-start-column="66" selection-end-line="187" selection-end-column="66" />
           <folding>
             <element signature="n#h1#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -952,7 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.18435754">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -960,7 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11425462">
           <caret line="7" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -968,32 +956,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23463687">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/front_end-master (5)/front_end-master/class/webpage/css/sunmoon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5059848">
+          <caret line="360" column="20" selection-start-line="360" selection-start-column="20" selection-end-line="360" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/p1-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.041666">
-          <caret line="272" column="68" selection-start-line="272" selection-start-column="68" selection-end-line="272" selection-end-column="68" />
+        <state vertical-scroll-proportion="-3.670391">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#1;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/front_end-master (5)/front_end-master/class/webpage/css/sunmoon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34711644">
-          <caret line="344" column="15" selection-start-line="344" selection-start-column="15" selection-end-line="344" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/webpage/css/p1-1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28182808">
-          <caret line="350" column="16" selection-start-line="350" selection-start-column="16" selection-end-line="350" selection-end-column="16" />
+        <state vertical-scroll-proportion="-2.8237214">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
           <folding />
         </state>
       </provider>
