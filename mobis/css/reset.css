@@ -54,3 +54,9 @@ a{
   color:#333;
   text-decoration:none;
 }
+
+.clearfix{
+  display:block;
+  content:"";
+  clear:both;
+}

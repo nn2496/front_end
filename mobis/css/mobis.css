@@ -1,0 +1,63 @@
+.inner{
+  width:1060px;
+  margin:0 auto;
+}
+
+.logo{
+  float:left;
+}
+
+.gnb{
+  float:right;
+  position:relative;
+}
+
+.gnb-depth1-item{
+  float:left;
+}
+
+.gnb-depth2{
+  display:none;
+}
+
+.gnb1{
+  display:block;
+  text-indent:-9999em;
+  background:url(../images/menu1.png);
+  width:94px;
+  height:16px;
+  margin:0 48px;
+}
+
+.gnb2{
+  display:block;
+  text-indent:-9999em;
+  background:url(../images/menu2.png);
+  width:94px;
+  height:16px;
+  margin:0 48px;
+}
+
+.gnb3{
+  display:block;
+  text-indent:-9999em;
+  background:url(../images/menu3.png);
+  width:57px;
+  height:16px;
+  margin:0 48px;
+}
+
+.gnb4{
+  display:block;
+  text-indent:-9999em;
+  background:url(../images/menu4.png);
+  width:97px;
+  height:16px;
+  margin:0 48px;
+}
+
+.gnb-depth1-link{
+  padding:30px 0 32px;
+  display:block;
+}
+
