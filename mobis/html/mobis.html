@@ -14,18 +14,18 @@
 
   <header class="clearfix">
 
-  <h1 class="logo"><img src="../images/logo_mobis.png" /></h1>
+  <h1 class="logo"><a href="#"><img src="../images/logo_mobis.png" /></a></h1>
 
   <nav class="gnb">
 
     <ul class="gnb-depth1 clearfix">
 
-      <li class="gnb-depth1-item gnb1"><a href="#" class="gnb-depth1-link">사회공헌 소개</a>
+      <li class="gnb-depth1-item "><a href="#" class="gnb-depth1-link gnb1">사회공헌 소개</a>
         <ul class="gnb-depth2">
           <li class="gnb-depth2-item"><a href="#" class="gnb-depth2-item">사업소개</a></li>
         </ul>
       </li>
-      <li class="gnb-depth1-item gnb2"><a href="#" class="gnb-depth1-link">사회공헌 활동</a>
+      <li class="gnb-depth1-item"><a href="#" class="gnb-depth1-link gnb2">사회공헌 활동</a>
         <ul class="gnb-depth2">
           <li class="gnb-depth2-item"><a href="#" class="gnb-depth2-link">투명우산나눔</a></li>
           <li class="gnb-depth2-item"><a href="#" class="gnb-depth2-link">주니어공학교실</a></li>
@@ -37,7 +37,7 @@
           <li class="gnb-depth2-item"><a href="#" class="gnb-depth2-link">교통사고 피해가정 지원</a></li>
         </ul>
       </li>
-      <li class="gnb-depth1-item gnb3"><a href="#" class="gnb-depth1-link">커뮤니티</a>
+      <li class="gnb-depth1-item"><a href="#" class="gnb-depth1-link gnb3">커뮤니티</a>
         <ul class="gnb-depth2">
           <li class="gnb-depth2-item"><a href="#" class="gnb-depth2-link">공지사항</a></li>
           <li class="gnb-depth2-item"><a href="#" class="gnb-depth2-link">보도자료</a></li>
@@ -49,7 +49,7 @@
           <li class="gnb-depth2-item"><a href="#" class="gnb-depth2-link">CSR소식</a></li>
         </ul>
       </li>
-      <li class="gnb-depth1-item gnb4"><a href="#" class="gnb-depth1-link">참여신청/제안</a>
+      <li class="gnb-depth1-item"><a href="#" class="gnb-depth1-link gnb4">참여신청/제안</a>
         <ul class="gnb-depth2">
           <li class="gnb-depth2-item"><a href="#" class="gnb-depth2-link">참여신청</a></li>
           <li class="gnb-depth2-item"><a href="#" class="gnb-depth2-link">사업제안</a></li>
@@ -62,32 +62,43 @@
 
   </header>
 
-  <div>
-    <a href="#">
-      <img src="../images/visual0.jpg" />
-      <img src="../images/vis_txtbg.png" />
-      <img src="../images/v0_txt1.png" />
-      <img src="../images/v0_txt2.png" />
-    </a>
+  <div class="visual">
+      <div class="visual-img">우산이미지</div>
+      <img src="../images/vis_txtbg.png" class="visual-txtbg"/>
+      <img src="../images/v0_txt1.png" class="visual-txt1"/>
+      <img src="../images/v0_txt2.png" class="visual-txt2"/>
   </div>
+
+</div>
 
   <section>
 
-    <section class="section-top">
+    <section class="section-top clearfix inner">
 
-      <h2>투명우산 나눔</h2>
-      <span><a href="#">left</a></span>
-      <span><a href="#">right</a></span>
+      <div class="section-top-main clearfix">
+        <h2 class="section-top-header">투명우산 나눔</h2>
+        <div class="top-left-arrow"><a href="#">left</a></div>
+        <div class="top-right-arrow"><a href="#">right</a></div>
+      </div>
 
-      <div>
-          <p>참여후기</p>
-          <img src="../images/reviewFream0.png" />
+      <div class="section-top-left">
+        <p>참여후기</p>
+        <div class="umbella-wrap">
         <a href="#">
-          <img src="../images/mBanSave_bg.jpg" />
-          <span>2015년 투명우산 나눔활동..</span>
-          <span>제목 : 투명우산을 만난 날 (용마초등학교 3학년 김은설) “얘들아, 저기 있는 투명 우산을 가져가렴. 비 오는 날은 앞이 잘 보이지 않으니 차량을 더 조심해야 해.”선생님께서는 안전에 관한 동..</span>
-          <img src="../images/mBanSt0_bt_on.png">
+          <span class="umbella-wrap2">
+
+            <img src="../images/mBanSave_bg.jpg" class="umbella"/>
+
+            <img src="../images/reviewFream0.png" class="mask-frame"/>
+
+          </span>
+
+          <span class="umbella-maintxt">2015년 투명우산 나눔활동..</span>
+          <span class="umbella-txt">제목 : 투명우산을 만난 날 (용마초등학교 3학년 김은설) “얘들아, 저기 있는 투명 우산을 가져가렴. 비 오는 날은 앞이 잘 보이지 않으니 차량을 더 조심해야 해.”선생님께서는 안전에 관한 동..</span>
+          <img src="../images/mBanSt0_bt_on.png" class="umbella-bootom-btn"/>
+
         </a>
+        </div>
       </div>
 
       <p>
@@ -208,8 +219,6 @@
     </section>
 
   </section>
-
-</div>
 
 <footer>
 

@@ -55,7 +55,7 @@ a{
   text-decoration:none;
 }
 
-.clearfix{
+.clearfix:after{
   display:block;
   content:"";
   clear:both;
