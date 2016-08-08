@@ -143,13 +143,7 @@
   position:relative;
 }
 
-.section-top-left>p{
-  display:block;
-  text-indent:-9999em;
-  background:url(../images/mBanS0_tit1.png) no-repeat;
-  width:76px;
-  height:20px;
-}
+
 
 .umbella-wrap{
   width:238px;
@@ -192,25 +186,270 @@
 }
 */
 
-.section-top-left{
+.section-top{
+  position:relative;
+}
+
+.section-top-left-wrap{
   float:left;
+  margin-right:50px;
+}
+
+.section-top-left{
+  padding:35px 36px;
+  background:#faf05e;
+  width:238px;
+  height:365px;
+}
+
+.umbella-wrap{
+  position:relative;
+  top:0;
+  left:0;
 }
 
 .umbella-wrap2{
-  position:relative;
 }
 
 .umbella{
   position:absolute;
-  top:0;
-  left:0
+  top:8px;
+  left:38px;
 }
 
 .mask-frame{
   position:absolute;
   top:0;
+  left:-35px;
+}
+
+.section-top-left>p{
+  display:block;
+  text-indent:-9999em;
+  background:url(../images/mBanS0_tit1.png) no-repeat;
+  width:76px;
+  height:20px;
+}
+
+.umbella-maintxt{
+  display:block;
+  padding-top: 210px;
+  font-size:18px;
+  color:#333;
+  font-weight:bold;
+}
+
+.umbella-txt{
+  display:block;
+  padding-top:12px;
+  font-size:13px;
+  color:#666;
+  line-height:15px;
+}
+
+.umbella-bottom-btn{
+  position:absolute;
+  bottom:-40px;
+  left:50%;
+  margin-left:-20px;
+}
+
+.together{
+  display:block;
+  margin-top:50px;
+}
+
+.together-link{
+  display:block;
+}
+
+.section-top-right{
+  position:relative;
+}
+
+.safe-move{
+  float:left;
+  width:455px;
+  box-sizing: border-box;
+}
+
+.safe-move-wrap{
+}
+
+.safe-move16-link{
+  display:block;
+  float:left;
+  margin-right:10px;
+}
+
+.safe-move16-img{
+  display:block;
+}
+
+.safe-move16-txt{
+  display:block;
+  margin-top:10px;
+  padding-left:13px;
+  color:#333;
+  font-size:16px;
+  background:url(../images/yellow1x15_bar.gif) no-repeat 0 6px;
+}
+
+.safe-move15-link{
+  display:block;
+  float:left;
+}
+
+.safe-move15-img{
+  display:block;
+}
+
+.safe-move15-txt{
+  display:block;
+  margin-top:10px;
+  padding-left:13px;
+  color:#333;
+  font-size:16px;
+  background:url(../images/yellow1x15_bar.gif) no-repeat 0 6px;
+}
+
+.safe-move-txt-link{
+  display:inline-block;
+  margin-top:20px;
+  float:right;
+  width:106px;
+  height:14px;
+  text-indent:-9999em;
+  background:url(../images/photoGoTx.png) no-repeat;
+}
+
+.section-top-video{
+  float:right;
+}
+
+.section-top-video-link{
+  display:block;
+}
+
+.section-top-report{
+  position:absolute;
+  top:380px;
+  left:360px;
+  padding:25px 0;
+  width:700px;
+  border-top:2px solid #4b524c;
+}
+
+.report-maintxt{
+  display:block;
+  text-indent:-9999em;
+  background:url(../images/mNews_tit.png) no-repeat;
+  width:112px;
+  height:18px;
+}
+
+.report-txt{
+  position:absolute;
+  top:90px;
   left:0;
 }
 
+.report-txt1-item{
+}
 
+.report-txt-submain{
+  padding:10px 0;
+  font-size:18px;
+  color:#333;
+  background:url(../images/grayTop20x2_bar.gif) no-repeat;
+}
+
+.report-txt1-item{
+  float:left;
+  width:330px;
+  margin-right:38px;
+}
+
+.report-txt2-item{
+  float:left;
+  width:330px;
+}
+
+.report-txt-sub{
+  display:block;
+  margin-top:5px;
+  font-size:14px;
+}
+
+.report-txt-subtxt{
+  display:block;
+  margin-top:14px;
+  font-size:13px;
+  line-height: 22px;
+  width:330px;
+  height:90px;
+}
+
+.section-mid{
+  width:100%;
+  position:relative;
+  margin:60px auto;
+  background:#f7f7f7;
+}
+
+.section-mid-main{
+  display:block;
+  text-indent:-9999em;
+  width:88px;
+  height:15px;
+  background:url(../images/mCsr_tit.png) no-repeat;
+  position:absolute;
+  top:0;
+  left:50%;
+  margin-left:-44px;
+}
+
+.contents-wrap{
+  position:relative;
+}
+
+.section-mid-left{
+  display:block;
+  text-indent:-9999em;
+  width:24px;
+  height:45px;
+  background:url(../images/mRotateL_bt.png) no-repeat;
+  position:absolute;
+  top:117px;
+  left:0;
+}
+
+.section-mid-right{
+  display:block;
+  text-indent:-9999em;
+  width:24px;
+  height:45px;
+  background:url(../images/mRotateR_bt.png) no-repeat;
+  position:absolute;
+  top:117px;
+  right:0;
+}
+
+.section-mid-contents{
+  float:left;
+  margin:28px 58px 0;
+}
+
+.mid-contents-item{
+  float:left;
+  margin-right:50px;
+}
+
+.mid-contents-item:last-child{
+  margin-right:0;
+}
+
+.mid-contents-link{
+  display:block;
+}
 
